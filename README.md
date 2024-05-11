@@ -1,6 +1,7 @@
-## Objetivo do Projeto: Treinamento em Databricks com Python, Spark e SQL
+# Objetivo do Projeto:
+### Objetivo do Projeto: Treinamento em Databricks com Python, Spark e SQL
 
-O objetivo deste projeto de treinamento é capacitar os participantes com habilidades essenciais em Databricks, utilizando as linguagens Python, Spark e SQL.
+#### O objetivo deste projeto de treinamento é capacitar os participantes com habilidades essenciais em Databricks, utilizando as linguagens Python, Spark e SQL.
 
 1. Compreender os fundamentos do Databricks e sua arquitetura.
 2. Utilizar efetivamente o ambiente Databricks para desenvolvimento e execução de código em Python.
